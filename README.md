@@ -24,8 +24,4 @@ A Go CLI for searching tango videos, managing a personal library, and creating p
 
 [Documentation](https://github.com/justinallenmarsh/tangotube-cli/tree/main/docs) · [Tests](https://github.com/justinallenmarsh/tangotube-cli/tree/main/e2e) · [Design notes](engineering/command-line-interfaces.md)
 
-## Working with me
-
-My main tools are Ruby, Rails, PostgreSQL, Go, Rust, and TypeScript. I prefer clear domain models, explicit interfaces, and tests that exercise real behavior.
-
-[Email](mailto:jmarsh24@gmail.com) · [GitHub](https://github.com/justinallenmarsh)
+[Website](https://www.justinmarsh.dev) · [Email](mailto:justin@justinmarsh.dev)
